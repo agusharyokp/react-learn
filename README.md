@@ -4,8 +4,17 @@ This repository contains various mini React projects, each implemented in its ow
 
 ## Available Projects
 
-- `tic-tac-toe`: A classic Tic Tac Toe game implementation
-- (More projects to be added)
+### Shop Project (`shop-project` branch)
+- A modern e-commerce shop interface
+- Features:
+  - Product listing and filtering
+  - Shopping cart functionality
+  - Product details view
+  - Responsive design for all devices
+  - Modern UI/UX design
+
+### More Projects Coming Soon!
+We're continuously adding new projects to this collection. Check back often for more React learning opportunities.
 
 ## Project Structure
 Each project is implemented in its own branch, allowing you to:
@@ -14,9 +23,12 @@ Each project is implemented in its own branch, allowing you to:
 3. Run the project locally
 
 ## Tech Stack
-- React.js
-- JavaScript
-- HTML/CSS
+- React.js (Latest version)
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Vite (for faster development)
+- Modern UI components
 
 ## Getting Started
 
