@@ -1,13 +1,17 @@
-# React Tic Tac Toe
+# React Mini Projects Collection
 
-A simple Tic Tac Toe game built with React.js
+This repository contains various mini React projects, each implemented in its own branch. Each project demonstrates different aspects of React development.
 
-## Features
-- Classic Tic Tac Toe gameplay
-- Player vs Player mode
-- Win detection
-- Score tracking
-- Reset game functionality
+## Available Projects
+
+- `tic-tac-toe`: A classic Tic Tac Toe game implementation
+- (More projects to be added)
+
+## Project Structure
+Each project is implemented in its own branch, allowing you to:
+1. Clone the repository
+2. Check out the specific branch you want to work on
+3. Run the project locally
 
 ## Tech Stack
 - React.js
@@ -17,11 +21,15 @@ A simple Tic Tac Toe game built with React.js
 ## Getting Started
 
 1. Clone the repository
-2. Install dependencies:
+2. Check out the desired project branch:
+```bash
+git checkout <project-branch>
+```
+3. Install dependencies:
 ```bash
 npm install
 ```
-3. Start the development server:
+4. Start the development server:
 ```bash
 npm start
 ```
