@@ -4,13 +4,13 @@ A collection of React mini projects designed for learning and practicing React.j
 
 ## Available Projects
 
-### Tic Tac Toe (`tic-tac-toe` branch)
-- Classic 3x3 Tic Tac Toe game
+### Investment Calculator (`investment-calculator` branch)
+- A financial calculator for investment planning
 - Features:
-  - Player vs Player gameplay
-  - Win detection logic
-  - Score tracking
-  - Responsive design
+  - Investment amount calculation
+  - Interest rate simulation
+  - Time period analysis
+  - Responsive design with modern UI
 
 ### More Projects Coming Soon!
 We're continuously adding new projects to this collection. Check back often for more React learning opportunities.
