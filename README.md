@@ -4,8 +4,17 @@ This repository contains various mini React projects, each implemented in its ow
 
 ## Available Projects
 
-- `tic-tac-toe`: A classic Tic Tac Toe game implementation
-- (More projects to be added)
+### Countdown Game (`countdown-game` branch)
+- A fun and challenging countdown timer game
+- Features:
+  - Dynamic countdown timer
+  - Interactive game interface
+  - Score tracking and high scores
+  - Responsive design
+  - Interactive animations
+
+### More Projects Coming Soon!
+We're continuously adding new projects to this collection. Check back often for more React learning opportunities.
 
 ## Project Structure
 Each project is implemented in its own branch, allowing you to:
@@ -14,9 +23,13 @@ Each project is implemented in its own branch, allowing you to:
 3. Run the project locally
 
 ## Tech Stack
-- React.js
-- JavaScript
-- HTML/CSS
+- React.js (Latest version)
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Vite (for faster development)
+- Modern UI components
+- Game development concepts
 
 ## Getting Started
 
