@@ -4,8 +4,39 @@ This repository contains various mini React projects, each implemented in its ow
 
 ## Available Projects
 
-- `tic-tac-toe`: A classic Tic Tac Toe game implementation
-- (More projects to be added)
+### Tic Tac Toe (`tic-tac-toe` branch)
+- A classic Tic Tac Toe game implementation
+- Features:
+  - Player vs Player gameplay
+  - Win detection logic
+  - Score tracking
+  - Responsive design
+
+### Investment Calculator (`investment-calculator` branch)
+- A financial calculator for investment planning
+- Features:
+  - Investment amount calculation
+  - Interest rate simulation
+  - Time period analysis
+  - Responsive design with modern UI
+
+### Shop Project (`shop-project` branch)
+- A modern e-commerce shop interface
+- Features:
+  - Product listing and filtering
+  - Shopping cart functionality
+  - Product details view
+  - Responsive design for all devices
+  - Modern UI/UX design
+
+### Countdown Game (`countdown-game` branch)
+- A fun and challenging countdown timer game
+- Features:
+  - Dynamic countdown timer
+  - Interactive game interface
+  - Score tracking and high scores
+  - Responsive design
+  - Interactive animations
 
 ## Project Structure
 Each project is implemented in its own branch, allowing you to:
@@ -14,9 +45,13 @@ Each project is implemented in its own branch, allowing you to:
 3. Run the project locally
 
 ## Tech Stack
-- React.js
-- JavaScript
-- HTML/CSS
+- React.js (Latest version)
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Vite (for faster development)
+- Modern UI components
+- Game development concepts
 
 ## Getting Started
 
